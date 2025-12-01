@@ -41,7 +41,7 @@ I specialize in the **MERN Stack**, production-grade backend systems (Go, FastAP
 ### 🔹 **Quizzify – AI-Powered Assessment Engine**
 A quiz platform that uses Google Gemini AI to automatically generate questions from user input.
 - **Tech:** React, Firebase Auth, Node.js, Gemini AI  
-- 🔗 Live: _(add link)_  
+- 🔗 Live: https://ashy-bush-044306a10.6.azurestaticapps.net/Dashboard
 - 💻 Repo: _(add link)_
 
 ---
