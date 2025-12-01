@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  🌐 <a href="https://himanshu.garg.vercel.app" target="_blank">Visit My Portfolio</a>
+  🌐 <a href="https://himanshu-garg.vercel.app" target="_blank">Visit My Portfolio</a>
 </p>
 
 ---
@@ -92,6 +92,4 @@ A clean and modern to-do app with focus timers and dynamic wallpapers.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge" />
-</p>
+
