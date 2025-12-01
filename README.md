@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | AI & Cloud Enthusiast</h3>
 
 <p align="center">
-  🌐 <a href="https://himanshu-garg.vercel.app" target="_blank"><strong>Visit My Portfolio</strong></a>
+  🌐 <a href="https://himanshu-garg.netlify.app" target="_blank"><strong>Visit My Portfolio</strong></a>
 </p>
 
 ## 👨‍💻 About Me
