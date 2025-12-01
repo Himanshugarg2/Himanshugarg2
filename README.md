@@ -28,8 +28,7 @@ I specialize in:
 - Node.js, Express.js, Go (Golang), FastAPI  
 
 ### **Database**
-- MongoDB, Firestore, PostgreSQL, Redis  
-
+- MongoDB, Firestore, PostgreSQL
 ### **Cloud & DevOps**
 - Firebase, Azure, Docker, GitHub Actions, Nginx  
 
