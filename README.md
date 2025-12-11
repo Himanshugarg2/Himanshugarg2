@@ -22,7 +22,7 @@ I specialize in:
 ## 🛠️ Technical Stack
 
 ### **Frontend**
-- React, Vite, TailwindCSS, Redux Toolkit, TypeScript  
+- React, Vite, TailwindCSS, Redux Toolkit  
 
 ### **Backend**
 - Node.js, Express.js, Go (Golang), FastAPI  
@@ -30,7 +30,7 @@ I specialize in:
 ### **Database**
 - MongoDB, Firestore, PostgreSQL
 ### **Cloud & DevOps**
-- Firebase, Azure, Docker, GitHub Actions, Nginx  
+- Firebase, Azure, Docker, GitHub Actions, Nginx , Jenkins  
 
 ### **AI & ML**
 - Google Gemini API, LangChain, NLP Transformers  
